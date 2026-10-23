@@ -1,0 +1,7 @@
+name: astrbot_plugin_persona_switch
+display_name: 人格切换
+desc: 在 QQ 里用命令随时切换当前会话的人格
+help: /人格 查看与切换；/人格 <名字> 切换（管理员）；/人格 默认 恢复；/人格列表 只看列表
+version: 1.0.0
+author: local
+astrbot_version: ">=4.11.0"
